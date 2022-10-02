@@ -1,0 +1,20 @@
+.f-cantainer{display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: white;
+width: 191vh;
+border: 15px solid whitesmoke;
+padding: 50px;
+margin: 20px;
+line-height: 2rem;
+
+}
+.f-cantainer ul {
+    list-style: none;
+}
+
+#list{
+    font-weight: bold;
+}
+
+

@@ -1,0 +1,22 @@
+.nav_3{
+    display: flex;
+    justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  width: 191vh;
+  border: 15px solid whitesmoke;
+  padding: 50px;
+  margin: 20px;
+}
+.nav_3 ul{
+    list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 30px;
+  width: 361px;
+  height: 25px;
+  left: 0px;
+  color: #23a6f0;
+}
